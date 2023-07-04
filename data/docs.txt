@@ -1,0 +1,81 @@
+data downloaded from: https://data-nces.opendata.arcgis.com/datasets/nces::public-school-characteristics-2021-22
+
+Attributes/Columns (some were reomved to work with a more concised data):
+Unique School ID
+Year corresponding to survey record
+Postal state abbreviation code
+NCES Agency ID
+State Local Education Number
+Education Agency Name
+School name
+Location address, street 1
+Location address, street 2
+Location city
+Location state
+Location 5 digit ZIP code
+Location Secondary ZIP code
+Telephone number
+Whether a Charter School
+Magnet school indicator
+Virtual School Status
+Grades Offered - Lowest
+Grades Offered - Highest
+School level
+Title I Status (description)
+Title I Eligible
+School-wide Title I
+Start of year status (code)
+School type (description)
+Start of year Status (description)
+Locale Code
+County Name
+Total of free lunch and reduced-price lunch eligible
+Free Lunch Program
+Reduced-Lunch Program
+Direct Certification
+Prekindergarten students
+Kindergarten students
+Grade 1 students
+Grade 2 students
+Grade 3 students
+Grade 4 students
+Grade 5 students
+Grade 6 students
+Grade 7 students
+Grade 8 students
+Grade 9 students
+Grade 10 students
+Grade 11 students
+Grade 12 students
+Grade 13 students
+Ungraded students
+Adult Education Students
+Total Male Enrollment
+Total Female Enrollment
+Total students, all grades (includes AE)
+Total elementary/secondary students (excludes AE)
+Total Teachers
+Student teacher ratio
+All Students - American Indian/Alaska Native - Male
+All Students - American Indian/Alaska Native - Female
+All Students - American Indian/Alaska Native
+All Students - Asian - Male
+All Students - Asian - Female
+All Students - Asian
+All Students - Black or African American - Male
+All Students - Black or African American - Female
+All Students - Black or African American
+All Students - Native Hawai'ian or Other Pacific Islander - Male
+All Students - Native Hawai'ian or Other Pacific Islander - Female
+All Students - Native Hawai'ian or Other Pacific Islander
+All Students - Hispanic - Male
+All Students - Hispanic - Female
+All Students - Hispanic
+All Students - Two or More Races - Male
+All Students - Two or More Races - Female
+All Students - Two or More Races
+All Students - White - Male
+All Students - White - Female
+All Students - White
+Latitude
+Longitude
